@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**JonecoBoy/jonecoboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.SC in eletronics engineering. Polyglote.
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonecoboy)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on Vega Checkout
+- 💬 I’m polyglot I Speak Portuguese, English, French and Spanish
+- 🌱 I’m always learning Rust
+- 👯 I’m looking to collaborate on Rust and Go projects
+- 🤔 I’m looking for help with OSS
+- 📫 How to reach me: joneco@joneco.com.br
+- ⚡ Fun fact: I am an assiduous DIY Guy. Love CNC, 3d printed and PCBS!
