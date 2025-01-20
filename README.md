@@ -2,9 +2,9 @@
 
 M.SC in eletronics engineering. Polyglote.
 
-[![Joneco's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jonecoboy&show_icons=true&bg_color=00000000)](https://joneco.com.br)
+[![Joneco's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jonecoboy&show_icons=true&theme=onedark)](https://joneco.com.br)
 
-[![Joneco's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonecoboy&show_icons=true&bg_color=00000000)](https://joneco.com.br)
+[![Joneco's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonecoboy&show_icons=true&theme=onedark)](https://joneco.com.br)
 
 - 🔭 I’m currently working on Vega Checkout
 - 💬 I’m polyglot I Speak Portuguese, English, French and Spanish
