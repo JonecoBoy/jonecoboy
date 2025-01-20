@@ -2,7 +2,8 @@
 
 M.SC in eletronics engineering. Polyglote.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonecoboy)](https://github.com/anuraghazra/github-readme-stats)
+[![Joneco's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonecoboy)](https://joneco.com.br)
+[![Joneco's GitHub Top Languages]([https://github-readme-stats.vercel.app/api?username=jonecoboy](https://github-readme-stats.vercel.app/api/top-langs/?username=jonecoboy))](https://joneco.com.br)
 
 
 
